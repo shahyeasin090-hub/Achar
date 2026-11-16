@@ -26,7 +26,7 @@ export const Navbar: React.FC<NavbarProps> = ({
         <a
           href="#home"
           className="whitespace-nowrap shrink-0 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#2E6B34] rounded-lg"
-          aria-label="Pahari Swad by Kakoli Home"
+          aria-label="Pahari Shad by Kakoli Home"
         >
           <BrandLogo variant="header" />
         </a>

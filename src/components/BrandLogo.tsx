@@ -61,7 +61,7 @@ export const BrandLogo: React.FC<BrandLogoProps> = ({ variant = 'header', classN
             className="block text-base sm:text-lg font-bold tracking-tight text-[#1B2A1E]"
             style={{ fontFamily: 'var(--font-serif)' }}
           >
-            Pahari Swad
+            Pahari Shad
           </span>
           <span className="block text-[11px] font-medium tracking-wide text-[#2E6B34]">
             by Kakoli
@@ -78,7 +78,7 @@ export const BrandLogo: React.FC<BrandLogoProps> = ({ variant = 'header', classN
         className="text-base sm:text-lg font-bold tracking-tight text-[#1B2A1E]"
         style={{ fontFamily: 'var(--font-serif)' }}
       >
-        Pahari Swad <span className="font-normal italic text-[#2E6B34]">by Kakoli</span>
+        Pahari Shad <span className="font-normal italic text-[#2E6B34]">by Kakoli</span>
       </span>
     </span>
   );

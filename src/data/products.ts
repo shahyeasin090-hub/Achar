@@ -2,7 +2,7 @@ import { Product, ReviewItem } from '../types';
 
 /**
  * ============================================================================
- * PAHARI SWAD BY KAKOLI — SINGLE PRODUCT & BRAND DATA FILE
+ * PAHARI SHAD BY KAKOLI — SINGLE PRODUCT & BRAND DATA FILE
  * ============================================================================
  * How to update products & photos:
  * 1. Replace any `image` path below with your real product photo URL or local
@@ -13,14 +13,14 @@ import { Product, ReviewItem } from '../types';
  */
 
 export const BRAND_CONFIG = {
-  brandName: 'Pahari Swad by Kakoli',
+  brandName: 'Pahari Shad by Kakoli',
   brandNameBn: 'পাহাড়ি স্বাদ বাই কাকলি',
   // Replace with Kakoli's real WhatsApp number in international format (no + or spaces)
   whatsappNumber: '8801700000000',
   displayPhone: '+880 1700-000000',
   // Replace with Kakoli's Facebook Page / Messenger username
   facebookPageUrl: 'https://www.facebook.com',
-  messengerUrl: 'https://m.me/paharishwadbykakoli',
+  messengerUrl: 'https://m.me/paharishadbykakoli',
   youtubeVlogUrl: 'https://www.youtube.com/@JkKakoliVlog',
   tiktokUrl: 'https://www.tiktok.com',
   freeDeliveryThreshold: 1500,

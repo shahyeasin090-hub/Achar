@@ -165,8 +165,8 @@ export const FooterAndFloatingChat: React.FC<FooterAndFloatingChatProps> = ({
             <a
               href={`https://wa.me/${BRAND_CONFIG.whatsappNumber}?text=${encodeURIComponent(
                 lang === 'bn'
-                  ? 'আসসালামু আলাইকুম, Pahari Swad by Kakoli থেকে অর্ডার সম্পর্কে জানতে চাই।'
-                  : 'Hello! I would like to inquire about an order from Pahari Swad by Kakoli.'
+                  ? 'আসসালামু আলাইকুম, Pahari Shad by Kakoli থেকে অর্ডার সম্পর্কে জানতে চাই।'
+                  : 'Hello! I would like to inquire about an order from Pahari Shad by Kakoli.'
               )}`}
               target="_blank"
               rel="noopener noreferrer"

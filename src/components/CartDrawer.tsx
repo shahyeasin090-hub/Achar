@@ -80,7 +80,7 @@ export const CartDrawer: React.FC<CartDrawerProps> = ({
         : 'ঢাকার বাইরে (Outside Dhaka)';
 
     return [
-      `🌿 *Pahari Swad by Kakoli — New COD Order*`,
+      `🌿 *Pahari Shad by Kakoli — New COD Order*`,
       `অর্ডার আইডি: ${order.id}`,
       ``,
       `📦 *পণ্যসমূহ:*`,

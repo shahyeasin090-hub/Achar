@@ -118,7 +118,7 @@ export const UI_COPY = {
       kicker: 'আমাদের গল্প',
       title: 'পাহাড়ের কোল থেকে ভালোবাসায় গড়া প্রতিটি বয়াম',
       p1: 'পার্বত্য চট্টগ্রামের সবুজ পাহাড় আর নির্মল প্রকৃতির মাঝে আমার বেড়ে ওঠা। ছোটবেলা থেকেই দেখেছি মা ও দাদিরা কীভাবে পাহাড়ি ঝাল মরিচ, জৈব হলুদ আর বন্য ফল রোদে শুকিয়ে হাতে আচার তৈরি করতেন।',
-      p2: 'ঢাকার ব্যস্ত জীবনে সেই খাঁটি ও ভেজালমুক্ত স্বাদ পৌঁছে দেওয়ার তাগিদ থেকেই "Pahari Swad by Kakoli"-এর যাত্রা। প্রতিটি আচার ও মশলা আমি নিজে বাছাই করি, ঘানি ভাঙা সরিষার তেলে রোদে মজাই—কোনো কেমিক্যাল, টেস্টিং সল্ট বা কৃত্রিম প্রিজারভেটিভ ছাড়াই।',
+      p2: 'ঢাকার ব্যস্ত জীবনে সেই খাঁটি ও ভেজালমুক্ত স্বাদ পৌঁছে দেওয়ার তাগিদ থেকেই "Pahari Shad by Kakoli"-এর যাত্রা। প্রতিটি আচার ও মশলা আমি নিজে বাছাই করি, ঘানি ভাঙা সরিষার তেলে রোদে মজাই—কোনো কেমিক্যাল, টেস্টিং সল্ট বা কৃত্রিম প্রিজারভেটিভ ছাড়াই।',
       highlight: '“নিজের পরিবারের জন্য যেভাবে যত্ন করে রান্না করি, ঠিক সেই ভালোবাসায় তৈরি হয় আপনার জন্য প্রতিটি বয়াম।” — কাকলি',
       whyTitle: 'কেন পাহাড়ি স্বাদ বাই কাকলি বেছে নেবেন?',
       pillars: [
@@ -150,7 +150,7 @@ export const UI_COPY = {
       title: 'কাকলির পাহাড়ি ভ্লগ ও রান্নাঘর দেখুন',
       subtitle:
         'কীভাবে পাহাড় থেকে তাজা উপকরণ সংগ্রহ করা হয় এবং রোদে আচার তৈরি হয়, দেখতে যুক্ত থাকুন Jk Kakoli Vlog-এর সাথে।',
-      fbPageTitle: 'Pahari Swad by Kakoli',
+      fbPageTitle: 'Pahari Shad by Kakoli',
       fbPageDesc: 'দৈনিক তাজা ব্যাচ আপডেট, লাইভ রিভিউ ও সরাসরি ইনবক্স অর্ডার করতে আমাদের ফেসবুক পেইজে যুক্ত থাকুন।',
       fbFollow: 'Facebook পেইজ দেখুন',
       vlogWatch: 'Jk Kakoli Vlog দেখুন',
@@ -175,7 +175,7 @@ export const UI_COPY = {
       contactTitle: 'যোগাযোগ ও ডেলিভারি',
       address: 'সোর্সিং: বান্দরবান ও পার্বত্য চট্টগ্রাম · ডেলিভারি হাব: ঢাকা',
       hours: 'সাপোর্ট: প্রতিদিন সকাল ৯টা – রাত ১০টা',
-      copyright: '© ২০২৬ Pahari Swad by Kakoli. সর্বস্বত্ব সংরক্ষিত।',
+      copyright: '© ২০২৬ Pahari Shad by Kakoli. সর্বস্বত্ব সংরক্ষিত।',
     },
   },
   en: {
@@ -274,9 +274,9 @@ export const UI_COPY = {
       kicker: 'Our Story',
       title: 'From the Quiet Hills, Handcrafted in Every Jar',
       p1: 'Growing up surrounded by the green ridges of the Chittagong Hill Tracts, I watched my mother and grandmother sun-cure wild chilies, hill turmeric, and orchard fruits with patience and pure mustard oil.',
-      p2: 'Pahari Swad by Kakoli was born to bring that unmistakable, chemical-free home taste to families across Bangladesh. Every batch is personally sorted, sun-cured on our veranda, and bottled without synthetic colors or preservatives.',
+      p2: 'Pahari Shad by Kakoli was born to bring that unmistakable, chemical-free home taste to families across Bangladesh. Every batch is personally sorted, sun-cured on our veranda, and bottled without synthetic colors or preservatives.',
       highlight: '“Every jar is prepared with the exact same care and purity I serve at my own family table.” — Kakoli',
-      whyTitle: 'Why Choose Pahari Swad by Kakoli?',
+      whyTitle: 'Why Choose Pahari Shad by Kakoli?',
       pillars: [
         {
           title: 'Pure Hill Ingredients',
@@ -306,7 +306,7 @@ export const UI_COPY = {
       title: 'Watch Behind-the-Scenes on Jk Kakoli Vlog',
       subtitle:
         'See how fresh hill ingredients are harvested and sun-cured into homemade jars—follow Jk Kakoli Vlog on YouTube, Facebook, and TikTok.',
-      fbPageTitle: 'Pahari Swad by Kakoli',
+      fbPageTitle: 'Pahari Shad by Kakoli',
       fbPageDesc: 'Join our Facebook community for daily fresh-batch updates, cooking reels, and quick inbox ordering.',
       fbFollow: 'Visit Facebook Page',
       vlogWatch: 'Watch Jk Kakoli Vlog',
@@ -331,7 +331,7 @@ export const UI_COPY = {
       contactTitle: 'Contact & Delivery',
       address: 'Sourcing: Bandarban Hills · Dispatch Hub: Dhaka',
       hours: 'Support: Daily 9:00 AM – 10:00 PM',
-      copyright: '© 2026 Pahari Swad by Kakoli. All rights reserved.',
+      copyright: '© 2026 Pahari Shad by Kakoli. All rights reserved.',
     },
   },
 } as const;
